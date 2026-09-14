@@ -84,6 +84,7 @@ The cleaned dataset was then loaded into the Power BI data model.
 ## 🏗️ Data Model
 
 The project uses a **star schema** centered around the `FactFlights` table.
+![Power BI Data Model](docs/data-model.png)
 
 ### Fact Table
 
