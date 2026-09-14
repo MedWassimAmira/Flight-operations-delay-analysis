@@ -192,17 +192,17 @@ Explores the main causes of delays and identifies routes experiencing higher ave
 
 ## 🔎 Key Insights
 
-The dashboard enables analysis of:
+The analysis of 2018 flight operations highlights several important operational patterns:
 
-- Overall flight activity and operational volume
-- Delay and on-time performance
-- Cancellation and diversion patterns
-- Differences in performance between airlines
-- Contribution of different delay causes
-- Routes with comparatively high average delays
-- Monthly changes in operational activity
+- **Late aircraft operations were the largest contributor to delays**, followed by **carrier-related delays** and **National Aviation System (NAS) delays**. This suggests that delays were strongly influenced by operational and network-level factors rather than weather alone.
 
-> **Note:** Specific numerical insights should be interpreted directly from the dashboard filters and visualizations.
+- The dataset records approximately **7.21 million flights** and **87.54 million attributable delay minutes**, highlighting the significant operational impact of delays across the year.
+
+- **Weather-related delays represented only 5.62% of total attributable delay minutes**, making weather a comparatively smaller contributor than late aircraft, carrier, and NAS-related delays.
+
+- **Delay performance varies significantly between routes.** For example, the `ABE → FLL` route shows a **74.0% delay rate** with an average departure delay of **40.7 minutes** across 73 flights.
+
+- Some routes show extremely high delay rates but have very low flight volumes. For example, `ABQ → MDT` records a **100% delay rate** and **175 minutes average departure delay**, but this is based on only **one flight**. This highlights why route performance should always be interpreted together with flight volume.
 
 ---
 
