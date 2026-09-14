@@ -62,6 +62,14 @@ The dataset contains information related to:
 
 ---
 
+## 📦 Project File
+
+The Power BI report is provided as a `.pbit` template.
+
+> **Note:** The template may require reconnecting to the original dataset when opened in Power BI Desktop.
+
+---
+
 ## 🧹 Data Preparation
 
 The raw data was prepared using Power Query.
