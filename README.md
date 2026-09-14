@@ -224,3 +224,20 @@ Flight-operations-delay-analysis/
 │   └── 05-delay-causes-routes.png
 │
 └── docs/
+
+---
+
+## 👤 Author
+
+**Mohamed Wassim Amira**
+
+Business Intelligence Student  
+Interested in Data Science, Business Intelligence, and Data Analytics.
+
+📍 Tunisia
+
+---
+
+⭐ If you found this project interesting, feel free to explore the dashboard, data model, and analysis.
+
+🔗 [LinkedIn](www.linkedin.com/in/mohamed-wassim-amira-004ab5246)
